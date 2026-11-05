@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**YoussefITSupport/YoussefITSupport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Youssef 👋
+IT Support | Help Desk
+Information Technology graduate interested in IT Support, Networking, and Windows Server Administration.
+Technical Skills
+Windows 10 / 11
+Windows Server 2025
+Active Directory
+Computer Networking
+Troubleshooting
+Cisco Packet Tracer
+SQL Server
+Power BI
+Practical Projects
+Network Configuration using Cisco Packet Tracer
+Windows Server 2025 Administration Lab
+Active Directory and User Management
+Career Objective
+Seeking an opportunity to start my career in IT Support and develop my technical skills.
